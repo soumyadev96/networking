@@ -4,7 +4,7 @@
 #include<string.h>
 #include<ctype.h>
 #include<time.h>
-#define PATH "soumya.txt"//adjacency matrix
+#define PATH "adjacency.txt"//adjacency matrix
 #define PATH1 "soumya1.txt"//traffic matrix
 #define MAX 9999
 struct node{
