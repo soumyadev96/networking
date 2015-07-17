@@ -1,4 +1,3 @@
 # networking
 		MultiCast Routing & Wavelength Assignment with Traffic Grooming
-	this programme finds a shortest path between any two node of any directed graph and checks the wavelength is available or not for any  given bandwidth.
-	if we fix the no of  transmitter and receiver how the average served will be changed . 
+	This is a simulator which takes input any graph in form of adjacency matrix and any traffic matrix to show a difference between two different types of grooming technique in form of blocking probablity in different different wavelength constant. 
